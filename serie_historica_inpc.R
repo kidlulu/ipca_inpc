@@ -21,7 +21,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=440)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2012/inpc_201201Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      na = "null", skip = 6)
 acum12 <- head(acum12,n = 440)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13)]
@@ -64,7 +64,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=440)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2012/inpc_201202Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      na = "null", skip = 6)
 acum12 <- head(acum12,n = 440)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13)]
@@ -107,7 +107,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=440)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2012/inpc_201203Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      na = "null", skip = 6)
 acum12 <- head(acum12,n = 440)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13)]
@@ -150,7 +150,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=440)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2012/inpc_201204Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      na = "null", skip = 6)
 acum12 <- head(acum12,n = 440)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13)]
@@ -193,7 +193,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=440)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2012/inpc_201205Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      na = "null", skip = 6)
 acum12 <- head(acum12,n = 440)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13)]
@@ -236,7 +236,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=440)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2012/inpc_201206Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      na = "null", skip = 6)
 acum12 <- head(acum12,n = 440)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13)]
@@ -279,7 +279,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=440)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2012/inpc_201207Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      na = "null", skip = 6)
 acum12 <- head(acum12,n = 440)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13)]
@@ -322,7 +322,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=440)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2012/inpc_201208Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      na = "null", skip = 6)
 acum12 <- head(acum12,n = 440)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13)]
@@ -365,7 +365,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=440)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2012/inpc_201209Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      na = "null", skip = 6)
 acum12 <- head(acum12,n = 440)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13)]
@@ -408,7 +408,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=440)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2012/inpc_201210Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      na = "null", skip = 6)
 acum12 <- head(acum12,n = 440)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13)]
@@ -451,7 +451,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=440)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2012/inpc_201211Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      na = "null", skip = 6)
 acum12 <- head(acum12,n = 440)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13)]
@@ -494,7 +494,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=440)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2012/inpc_201212Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      na = "null", skip = 6)
 acum12 <- head(acum12,n = 440)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13)]
@@ -542,7 +542,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=440)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2013/inpc_201301Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      na = "null", skip = 6)
 acum12 <- head(acum12,n = 440)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13)]
@@ -585,7 +585,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=440)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2013/inpc_201302Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      na = "null", skip = 6)
 acum12 <- head(acum12,n = 440)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13)]
@@ -628,7 +628,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=440)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2013/inpc_201303Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      na = "null", skip = 6)
 acum12 <- head(acum12,n = 440)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13)]
@@ -671,7 +671,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=440)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2013/inpc_201304Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      na = "null", skip = 6)
 acum12 <- head(acum12,n = 440)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13)]
@@ -714,7 +714,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=440)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2013/inpc_201305Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      na = "null", skip = 6)
 acum12 <- head(acum12,n = 440)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13)]
@@ -757,7 +757,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=440)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2013/inpc_201306Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      na = "null", skip = 6)
 acum12 <- head(acum12,n = 440)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13)]
@@ -800,7 +800,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=440)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2013/inpc_201307Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      na = "null", skip = 6)
 acum12 <- head(acum12,n = 440)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13)]
@@ -843,7 +843,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=440)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2013/inpc_201308Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      na = "null", skip = 6)
 acum12 <- head(acum12,n = 440)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13)]
@@ -886,7 +886,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=440)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2013/inpc_201309Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      na = "null", skip = 6)
 acum12 <- head(acum12,n = 440)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13)]
@@ -929,7 +929,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=440)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2013/inpc_201310Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      na = "null", skip = 6)
 acum12 <- head(acum12,n = 440)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13)]
@@ -972,7 +972,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=440)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2013/inpc_201311Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      na = "null", skip = 6)
 acum12 <- head(acum12,n = 440)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13)]
@@ -1015,7 +1015,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=440)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2013/inpc_201312Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      na = "null", skip = 6)
 acum12 <- head(acum12,n = 440)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13)]
@@ -1063,7 +1063,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2014/inpc_201401Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -1106,7 +1106,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2014/inpc_201402Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -1149,7 +1149,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2014/inpc_201403Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -1192,7 +1192,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2014/inpc_201404Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -1235,7 +1235,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2014/inpc_201405Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -1278,7 +1278,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2014/inpc_201406Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -1321,7 +1321,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2014/inpc_201407Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -1364,7 +1364,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2014/inpc_201408Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -1407,7 +1407,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2014/inpc_201409Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -1450,7 +1450,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2014/inpc_201410Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -1493,7 +1493,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2014/inpc_201411Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -1536,7 +1536,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2014/inpc_201412Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -1584,7 +1584,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2015/inpc_201501Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -1627,7 +1627,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2015/inpc_201502Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -1670,7 +1670,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2015/inpc_201503Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -1713,7 +1713,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2015/inpc_201504Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -1756,7 +1756,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2015/inpc_201505Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -1799,7 +1799,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2015/inpc_201506Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -1842,7 +1842,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2015/inpc_201507Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -1885,7 +1885,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2015/inpc_201508Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -1928,7 +1928,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2015/inpc_201509Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -1971,7 +1971,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2015/inpc_201510Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -2014,7 +2014,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2015/inpc_201511Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -2057,7 +2057,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2015/inpc_201512Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -2105,7 +2105,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2016/inpc_201601Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -2148,7 +2148,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2016/inpc_201602Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -2191,7 +2191,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2016/inpc_201603Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -2234,7 +2234,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2016/inpc_201604Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -2277,7 +2277,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2016/inpc_201605Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -2320,7 +2320,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2016/inpc_201606Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -2363,7 +2363,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2016/inpc_201607Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -2406,7 +2406,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2016/inpc_201608Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -2449,7 +2449,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2016/inpc_201609Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -2492,7 +2492,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2016/inpc_201610Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -2535,7 +2535,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2016/inpc_201611Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -2578,7 +2578,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2016/inpc_201612Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -2626,7 +2626,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2017/inpc_201701Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -2669,7 +2669,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2017/inpc_201702Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -2712,7 +2712,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2017/inpc_201703Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
@@ -2755,7 +2755,7 @@ names(acum) <- c("desc_orig","riodejaneiro","portoalegra","belohorizonte",
 acum$id <- seq(from=1,to=446)
 acum$tp_dado <- "2_ac_ano"
 acum12 <- read_excel("~/codeplan/ipca_e_inpc/2017/inpc_201704Subitem.xls", 
-                     sheet = "ACUM 12 M SUBITEM INPC(FÓRM)", col_names = FALSE, 
+                     sheet = "ACUM 12 M SUBITEM INPC(FÃ“RM)", col_names = FALSE, 
                      skip = 6)
 acum12 <- head(acum12,n = 446)
 acum12 <- acum12[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)]
